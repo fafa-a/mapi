@@ -1,4 +1,8 @@
 {
   "assets/app.css": "http://localhost:8080/assets/app.css",
-  "assets/app.js": "http://localhost:8080/assets/app.js"
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/images/arthur-chauvineau-phone.webp": "http://localhost:8080/assets/images/arthur-chauvineau-phone.f2e40869.webp",
+  "assets/images/arthur-chauvineau-tablet.webp": "http://localhost:8080/assets/images/arthur-chauvineau-tablet.1513e5ad.webp",
+  "assets/images/arthur-chauvineau-mobile.webp": "http://localhost:8080/assets/images/arthur-chauvineau-mobile.f2e40869.webp",
+  "assets/images/arthur-chauvineau-desktop.webp": "http://localhost:8080/assets/images/arthur-chauvineau-desktop.b27e2efd.webp"
 }
